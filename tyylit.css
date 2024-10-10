@@ -1,0 +1,11 @@
+body {
+    background-color: beige;
+}
+img {
+    transform: rotate(-90deg);
+}
+.kuvatext {
+    font-family: fantasy;
+    color: maroon;
+    font-size: 14px;
+}
